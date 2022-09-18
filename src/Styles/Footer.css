@@ -1,0 +1,19 @@
+.footer-container {
+  background-color: #101010;
+  width: 100vw;
+  height: 3.5rem;
+  
+}
+
+.social-media{
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.social-media svg {
+  color: #fafafa;
+  width: 2.4rem;
+  height: 2.4rem;
+  margin-top: 10px;
+}
